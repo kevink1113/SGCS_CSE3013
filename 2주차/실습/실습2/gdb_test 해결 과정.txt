@@ -1,0 +1,22 @@
+문제 코드를 그대로 실행하면 
+num is 0.000000
+num is 1.000000
+num is 3.000000
+num is 4.000000
+num is 6.000000
+로 나온다.
+
+gdb에 들어가
+b 5로 breakpoint 지정한 후
+run한다.
+
+display i
+display num로 인자값을 띄우게 설정하고
+next를 계속 하면서 코드를 실행하다 보면
+i가 홀수일때맏 문제가 생김을 확인할 수 있다. 
+
+코드에서 i/2 + i를 하면
+int 끼리 나누면 결과가 int이기 때문에 
+double로 형변환해줘야 한다.
+
+따라서 num=((double) i)/2+i;와 같이 바꿔주어야 한다. 
