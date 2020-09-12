@@ -1,6 +1,8 @@
 # CSE3013
 Computer Science and Engineering Laboratory I
 
+2020년 1학기
+
 | Week                              | Contents                              |
 | --------------------------------- | ------------------------------------- |
 | [1주차](/1주차)                   | UNIX Shell Script                     |
