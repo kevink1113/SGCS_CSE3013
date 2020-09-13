@@ -1,6 +1,8 @@
 # CSE3013
 Computer Science and Engineering Laboratory I
 
+컴퓨터공학 설계 및 실험 I
+
 2020년 1학기
 
 | Week                              | Contents                              |
@@ -9,7 +11,7 @@ Computer Science and Engineering Laboratory I
 | [2주차](/2주차)                   | C/C++ Programming in UNIX             |
 | [3주차](/3주차)                   | C++ Programming #1                    |
 | [4주차](/4주차)                   | C++ Programming #2                    |
-| [5주차](/5주차)                   | Github                                |
+| [5주차](/5주차)                   | GitHub                                |
 | [6주차](/6주차)                   | Tetris Project #1                     |
 | [7주차](/7주차)                   | Tetris Project #2                     |
 | [8주차](/8주차)                   | Tetris Project #3                     |
