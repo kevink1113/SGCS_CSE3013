@@ -1,7 +1,5 @@
-# CSE3013
-Computer Science and Engineering Laboratory I
-
-컴퓨터공학 설계 및 실험 I
+# Computer Science and Engineering Laboratory I
+컴퓨터공학 설계 및 실험 I (CSE3013)
 
 2020년 1학기
 
