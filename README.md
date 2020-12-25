@@ -20,3 +20,12 @@
 | [13주차](/13주차)                 | OpenFrameworks - Maze Project #3      |
 | [기말 프로젝트](/기말%20프로젝트) | WaterFall Game Development            |
 
+### Tetris Project
+![image](https://user-images.githubusercontent.com/48401272/103133967-f5828880-46f0-11eb-83aa-6f87338c92e4.png)
+
+### Maze Project
+![image](https://user-images.githubusercontent.com/48401272/103134008-43978c00-46f1-11eb-98f5-b455faa81866.png)
+
+### WaterFall Game Project
+![image](https://user-images.githubusercontent.com/48401272/103134036-6a55c280-46f1-11eb-8257-4755259bd015.png)
+![image](https://user-images.githubusercontent.com/48401272/103134040-72adfd80-46f1-11eb-8a6c-49a2ee842fae.png)
