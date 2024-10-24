@@ -29,3 +29,9 @@
 ### WaterFall Game Project
 ![image](https://user-images.githubusercontent.com/48401272/103134036-6a55c280-46f1-11eb-8257-4755259bd015.png)
 ![image](https://user-images.githubusercontent.com/48401272/103134040-72adfd80-46f1-11eb-8a6c-49a2ee842fae.png)
+
+## 🗂️ Sogang University Courses Repository
+
+이 프로젝트 외에도 다양한 과목별 과제/프로젝트 자료를 확인하려면, 다음의 링크를 통해 전체 개요를 확인할 수 있습니다. 각 과목별로 세부 프로젝트와 코드가 정리되어 있으니 참고하시기 바랍니다.
+
+- [sogang-courses](https://github.com/kevink1113/sogang-univ-courses)
